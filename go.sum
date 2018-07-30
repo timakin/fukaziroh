@@ -1,0 +1,10 @@
+github.com/lucasb-eyer/go-colorful v0.0.0-20180709185858-c7842319cf3a h1:B2QfFRl5yGVGGcyEVFzfdXlC1BBvszsIAsCeef2oD0k=
+github.com/lucasb-eyer/go-colorful v0.0.0-20180709185858-c7842319cf3a/go.mod h1:NXg0ArsFk0Y01623LgUqoqcouGDB+PwCCQlrwrG6xJ4=
+github.com/streadway/quantile v0.0.0-20150917103942-b0c588724d25 h1:7z3LSn867ex6VSaahyKadf4WtSsJIgne6A1WLOAGM8A=
+github.com/streadway/quantile v0.0.0-20150917103942-b0c588724d25/go.mod h1:lbP8tGiBjZ5YWIc2fzuRpTaz0b/53vT6PEs3QuAWzuU=
+github.com/tsenart/vegeta v8.0.0+incompatible h1:B/R/ayQhKTxPvvHYfO3b2G8ExYrh+5SUAjOSkRwkCAY=
+github.com/tsenart/vegeta v8.0.0+incompatible/go.mod h1:Smz/ZWfhKRcyDDChZkG3CyTHdj87lHzio/HOCkbndXM=
+golang.org/x/net v0.0.0-20180729183719-c4299a1a0d85 h1:L8D6kGKB6IflRbLijfnSTkgmss6PZ/Q2MG7XefweZB4=
+golang.org/x/net v0.0.0-20180729183719-c4299a1a0d85/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
